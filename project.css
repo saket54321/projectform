@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 700px;
+    width: 100vw;
+    
+    
+}
+
+
+
+.navbar{
+    
+    width: 100vw;
+    position: absolute;
+    
+    background-color:white;
+}
+.navb img{
+    max-height: 50px;
+    max-width: 175px;
+}
+.cont1{
+    height: 700px;
+    width: 100vw;
+    
+    top: 70px;
+    position: absolute;
+    background-color: rgb(241, 241, 241);
+}
+.cont1 h1{
+    text-align: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3rem;
+}
+.form1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.for1{
+    
+    height: 600px;
+    width: 75vw;
+    position: absolute;
+    left: 250px;
+    background-color: whitesmoke;
+}
+#fname{
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+}
+#lname{
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+
+}
+#phone  {
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+
+}
+#educt{
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+
+}
+#work{
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+
+}
+#detail{
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+
+}
+#completion{
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+
+}
+#cybervie{
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+
+}
+.btn{
+    left: 20px;
+    
+    position: absolute;
+    bottom: 3px;
+
+}
+.btn1{
+    background-color:blue;
+    width: 70px;
+    height: 30px;
+    
+}
+.btn2{
+    width: 70px;
+    height: 30px;
+    margin-left: 5px;
+
+}
+#othe{
+    left: 350px;
+    border: 1px solid rgb(189, 180, 180);
+    border-radius: 5px;
+    width: 50vw;
+    height: 30px;
+    position: absolute;
+
+}
+.burger{
+    
+    position: absolute;
+    cursor: pointer;
+    right: 5%;
+    top: 15px;
+}
+.line{
+    width: 33px;
+    background-color:black;
+    height: 4px;
+    margin: 5px 3px;
+}
